@@ -1,0 +1,48 @@
+{% extends 'layouts/base-fullscreen.html' %}
+
+{% block title %} Result {% endblock title %}
+
+<!-- Specific CSS goes HERE -->
+{% block stylesheets %}
+<head>
+  {{ form.media }}
+  <style>
+    .ql-container {
+      height: 450px;
+    }
+  </style>
+</head>
+
+{% endblock stylesheets %}
+
+{% block content %}
+
+
+    <!-- Page content -->
+    <div class="container mt--8 pb-5">
+      <div class="row">
+          <div class="col-xl-12 mb-12 mb-xl-0">
+            <p><a class="btn btn-white" href={% url 'editor' %}>Go Back</a></p>
+            <div class="card bg-secondary shadow border-0">
+                  <div id="editor">
+                  </div>
+            </div>
+          </div>
+      </div>
+    </div>
+
+{% endblock content %}
+
+<!-- Specific JS goes HERE --> 
+{% block javascripts %}
+<script>
+  var quill = new Quill('#editor', {
+    theme: 'snow'
+  });
+
+  var data = '{{data|safe}}'; 
+  data = data.replace(/#newline#/g, '\\n')
+  data = data.replace(/#quote#/g, "\'")
+  quill.setContents(JSON.parse(data));
+</script>
+{% endblock javascripts %}
