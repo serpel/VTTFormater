@@ -7,41 +7,14 @@
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
-- **MIT License**
-- Free support via **Github** 
-- Paid Support **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
-
-> Links
-
-- [Django Dashboard - Argon Design](https://appseed.us/admin-dashboards/django-dashboard-argon) - Product page
-- [Django Dashboard Argon Demo](https://django-dashboard-argon.appseed.us/login/) - LIVE App
-- [Django Dashboard Argon Docs](https://docs.appseed.us/admin-dashboards/django-dashboard-argon/) - Documentation
-- More [Django Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **AppSeed**
-- More [Admin Dashboards](https://appseed.us/admin-dashboards) - index hosted by **AppSeed**
-
-<br />
-
-## Want more? Go PRO!
-
-PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
-
-| [Django Gradient Dark PRO](https://appseed.us/admin-dashboards/django-dashboard-gradient-dark-pro) | [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro) | [Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) |
-| --- | --- | --- |
-| [![Django Gradient Dark PRO](https://raw.githubusercontent.com/app-generator/django-dashboard-gradient-dark-pro/master/media/django-dashboard-gradient-dark-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-gradient-dark-pro) | [![Django Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/django-dashboard-black-pro/master/media/django-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-black-pro) | [![Django Dashboard Argon PRO](https://raw.githubusercontent.com/app-generator/django-dashboard-argon-pro/master/media/django-dashboard-argon-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)
-
-<br />
-<br />
-
-![Django Dashboard Argon - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-argon/master/media/django-dashboard-argon-screen.png)
-
 <br />
 
 ## How to use it
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/django-dashboard-argon.git
-$ cd django-dashboard-argon
+$ git clone https://github.com/serpel/VTTFormater.git
+$ cd VTTFormater
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -84,8 +57,8 @@ The application can be easily executed in a docker container. The steps:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/django-dashboard-argon.git
-$ cd django-dashboard-argon
+$ git clone https://github.com/serpel/VTTFormater.git
+$ cd VTTFormater
 ```
 
 > Start the app in Docker
@@ -157,10 +130,3 @@ Start fast your next Django project by using functional admin dashboards enhance
 A dashboard is a set of pages that are easy to read and offer information to the user in real-time regarding his business. A dashboard usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides - *definition provided by [Creative-Tim - Free Dashboard Templates](https://www.creative-tim.com/blog/web-design/free-dashboard-templates/?ref=appseed)*.
 
 ### [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard?AFFILIATE=128200)
-
-**[Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard?ref=appseed)** is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files and it is open source, and free - provided by **Creative-Tim**.
-
-<br />
-
----
-**[Django Dashboard - Argon Design](https://appseed.us/admin-dashboards/django-dashboard-argon)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
