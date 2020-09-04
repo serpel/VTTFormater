@@ -2,11 +2,11 @@
 
 The intention of this project is to format in a "Pretty" way the .vtt files from Zoom
 
-Special thanks to [Leitan](https://github.com/lethain) for bringing us the compact algorithm.
-Also to [QuillJs](https://quilljs.com/) text editor.
+* Special thanks to [Leitan](https://github.com/lethain) for bringing us the compact algorithm.
+* Also to [QuillJs](https://quilljs.com/) text editor.
+* This project is running on [HEROKU](https://dashboard.heroku.com/apps)
 
-> **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - features:
-
+Some features brought us by the Argon Dashboard team:
 - UI Kit: **[Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard?ref=appseed)** (Free version) provided by **Creative-Tim**
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, clean code-base
