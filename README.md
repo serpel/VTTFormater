@@ -1,4 +1,9 @@
-# [Django Dashboard - Argon Design](https://appseed.us/admin-dashboards/django-dashboard-argon)
+# [VTTFormater](https://vttformater.herokuapp.com/)
+
+The intention of this project is to format in a "Pretty" way the .vtt files from Zoom
+
+Special thanks to [Leitan](https://github.com/lethain) for bringing us the compact algorithm.
+Also to [QuillJs](https://quilljs.com/) text editor.
 
 > **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - features:
 
@@ -9,7 +14,7 @@
 - Deployment scripts: Docker, Gunicorn / Nginx
 <br />
 
-## How to use it
+## How run it
 
 ```bash
 $ # Get the code
