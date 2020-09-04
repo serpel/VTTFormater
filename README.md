@@ -1,7 +1,12 @@
-# [Django Dashboard - Argon Design](https://appseed.us/admin-dashboards/django-dashboard-argon)
+# [VTTFormater](https://vttformater.herokuapp.com/)
 
-> **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - features:
+The intention of this project is to format in a "Pretty" way the .vtt files from Zoom
 
+* Special thanks to [Leitan](https://github.com/lethain) for bringing us the compact algorithm.
+* Also to [QuillJs](https://quilljs.com/) text editor.
+* This project is running on [HEROKU](https://dashboard.heroku.com/apps)
+
+Some features brought us by the Argon Dashboard team:
 - UI Kit: **[Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard?ref=appseed)** (Free version) provided by **Creative-Tim**
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, clean code-base
@@ -9,7 +14,7 @@
 - Deployment scripts: Docker, Gunicorn / Nginx
 <br />
 
-## How to use it
+## How run it
 
 ```bash
 $ # Get the code
@@ -125,8 +130,7 @@ Start fast your next Django project by using functional admin dashboards enhance
 
 [Django](https://www.djangoproject.com/) is a Python-based free and open-source web framework, which follows the model-template-view architectural pattern. It is maintained by the Django Software Foundation, an independent organization established as a 501 non-profit. Django's primary goal is to ease the creation of complex, database-driven websites.
 
-### [What is a dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
+### [HEROKU](https://dashboard.heroku.com/apps)
 
-A dashboard is a set of pages that are easy to read and offer information to the user in real-time regarding his business. A dashboard usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides - *definition provided by [Creative-Tim - Free Dashboard Templates](https://www.creative-tim.com/blog/web-design/free-dashboard-templates/?ref=appseed)*.
 
-### [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard?AFFILIATE=128200)
+
